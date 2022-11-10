@@ -1,2 +1,9 @@
-# true-randomness-generator
-Generate (almost) true random numbers utilizing different methods.
+# True Randomness Generator
+Generate (almost) true random numbers utilizing different methods. 
+
+# Introduction
+
+Randomness is not random
+
+
+# Graphs
